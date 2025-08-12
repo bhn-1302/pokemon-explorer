@@ -4,6 +4,8 @@ Aplicação React+Vite para listar e detalhar Pokémons utilizando a [PokéAPI](
 
 Inclui alternância entre tema claro e escuro com Context API e styled-components. Responsivo com grid e media queries.
 
+<img src="./public/gif-pokemon-explorer.gif" alt=”descricao”>
+
 ## Tecnologias utilizadas
 
 
